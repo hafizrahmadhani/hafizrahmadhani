@@ -23,7 +23,7 @@ job: Undergraduate Students
 technical_interests: ["Planning", "AI", "Object Detection"]
 currently_learning: ["Kotlin", "Web"]
 hobbies: ["Cycling", "Playing Badminton", "Cinema", "Listening Music", "Traveling", "Relax"]
-relocation_interests: ["Japan", "Turkey", "United Kingdom", "Switzerland"]
+one_day_want_go_to: ["Japan", "Turkey", "United Kingdom", "Switzerland"]
 ```
 
 <p align="center">
