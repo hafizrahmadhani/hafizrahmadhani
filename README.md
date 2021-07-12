@@ -14,6 +14,21 @@
 </a>
 </p>
 
+```yaml
+full_name: Muhammad Al Hafiz Rahmadhani
+located_in: Medan, Indonesia
+from: Medan (Indonesia)
+education: Undergraduate Students in Informatics Engineering
+job: Undergraduate Students
+
+technical_interests: ["Planning", "Path Following", "Obstacle Avoidance", 
+                      "Object Detection", "Sensor Fusion", "SLAM"]
+currently_learning: ["Kotlin", "Web"]
+hobbies: ["Cycling", "Playing Badminton", "Cinema", "Listening Music", "Traveling"]
+
+relocation_interests: ["Japan", "Turkey", "United Kingdom", "Switzerland"]
+```
+
 <!--
 **hafizrahmadhani/hafizrahmadhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
