@@ -29,6 +29,8 @@ one_day_want_go_to: ["Japan", "Turkey", "United Kingdom", "Switzerland"]
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=hafizrahmadhani&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
+
+
 <!--
 **hafizrahmadhani/hafizrahmadhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
