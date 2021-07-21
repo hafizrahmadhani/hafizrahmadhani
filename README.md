@@ -20,7 +20,7 @@ located_in: Medan, Indonesia
 from: Medan (Indonesia)
 education: Undergraduate Students in Informatics Engineering
 job: Undergraduate Students
-technical_interests: ["Planning", "AI", "Object Detection"]
+technical_interests: ["Mobile", "Planning", "AI", "Object Detection"]
 currently_learning: ["Kotlin", "Web"]
 hobbies: ["Cycling", "Playing Badminton", "Cinema", "Listening Music", "Traveling", "Relax"]
 one_day_want_go_to: ["Japan", "Turkey", "United Kingdom", "Switzerland"]
