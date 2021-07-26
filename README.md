@@ -17,7 +17,7 @@
 ```yaml
 full_name: Muhammad Al Hafiz Rahmadhani
 located_in: Medan, Indonesia
-from: Medan (Indonesia)
+from: Medan, North Sumatera (Indonesia)
 education: Undergraduate Students in Informatics Engineering
 job: Undergraduate Students
 technical_interests: ["Mobile", "Web", "Planning", "AI", "Object Detection"]
