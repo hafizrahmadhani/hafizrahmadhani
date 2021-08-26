@@ -31,6 +31,11 @@ one_day_want_go_to: ["Japan", "Turkey", "United Kingdom", "Switzerland"]
 </p>
 
 
+### Spotify Playing 🎧
+
+[<img src="https://https://spotify-two-nu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/082546be21604b349d5b39000575bb09)
+
+
 <!--
 **hafizrahmadhani/hafizrahmadhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
