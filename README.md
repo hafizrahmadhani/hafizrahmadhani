@@ -33,7 +33,8 @@ one_day_want_go_to: ["Japan", "Turkey", "United Kingdom", "Switzerland"]
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-hafizrahmadhani.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/082546be21604b349d5b39000575bb09)
+[<img src="https://spotify-now-playing-hafizrahmadhani.vercel.app/api/spotify-playing" alt="Hafiz's Spotify Now Playing" width="350" />](https://open.spotify.com/user/082546be21604b349d5b39000575bb09)
+
 
 
 <!--
