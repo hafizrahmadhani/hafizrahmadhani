@@ -1,18 +1,14 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=hafizrahmadhani.hafizrahmadhani)
-### Hi there 👋
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-<p align="center">
-<br/>
-<a href="https://www.linkedin.com/in/hafiz-rahmadhani/">
-  <img alt="Hafiz Rahmadhani LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
-</a>
-<a href="https://www.instagram.com/hafiz.rahmadhani/">
-  <img alt="Hafiz Rahmadhani Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
-</a>
-<a href="https://open.spotify.com/user/dp4l8q1vosatmm8qrz5c9o6xg">
-  <img alt="Hafiz Rahmadhani Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
-</a>
-</p>
+<div align="center">
+
+You have finally discovered my Github profile. <br>
+Feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+Ask me anything <a href="https://github.com/hafizrahmadhani/hafizrahmadhani/issues/new"><b>here</b></a><br>
+or <a href="mailto:mhafiz.rahmadhani@gmail.com"><b>email</b></a> me.
+
+</div>
 
 ```yaml
 full_name: Muhammad Al Hafiz Rahmadhani
@@ -30,10 +26,6 @@ one_day_want_holiday_to: ["Japan", "Turkey", "United Kingdom", "Switzerland"]
   <img alig src="https://github-profile-trophy.vercel.app/?username=hafizrahmadhani&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
-
-### Spotify Playing 🎧
-
-[<img src="https://test-hafizrahmadhani.vercel.app/api/spotify-playing" alt="Hafiz Spotify Now Playing" width="350" />](https://open.spotify.com/user/082546be21604b349d5b39000575bb09)
 
 <!--
 **hafizrahmadhani/hafizrahmadhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
