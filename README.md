@@ -5,7 +5,7 @@
 
 You have finally discovered my Github profile. <br>
 Feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/hafizrahmadhani/hafizrahmadhani/issues/new"><b>here</b></a><br>
+Ask me anything <a href="https://github.com/hafizrahmadhani/hafizrahmadhani/issues/new"><b>here</b></a>
 or <a href="mailto:mhafiz.rahmadhani@gmail.com"><b>email</b></a> me.
 
 </div>
