@@ -14,11 +14,11 @@ or <a href="mailto:mhafiz.rahmadhani@gmail.com"><b>email</b></a> me.
 full_name: Muhammad Al Hafiz Rahmadhani
 located_in: Medan, Indonesia
 from: Medan, North Sumatera (Indonesia)
-education: Undergraduate Students in Informatics Engineering
-job: Undergraduate Students
-technical_interests: ["Mobile", "Web", "Planning", "AI", "Object Detection"]
-currently_learning: ["Kotlin", "Web"]
-hobbies: ["Cycling", "Playing Badminton", "Cinema", "Listening Music", "Traveling", "Relax"]
+education: Fresh Graduate in Informatics Engineering
+job: Fresh Graduate
+technical_interests: ["Product", "Mobile", "Web", "Planning", "AI", "Object Detection"]
+currently_learning: ["Product", "Kotlin"]
+hobbies: ["Cycling", "Playing Badminton", "Cinema", "Listening Music", "Traveling", "Hiking"]
 one_day_want_holiday_to: ["Japan", "Turkey", "United Kingdom", "Switzerland"]
 ```
 
