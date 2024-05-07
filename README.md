@@ -12,14 +12,13 @@ or <a href="mailto:mhafiz.rahmadhani@gmail.com"><b>email</b></a> me.
 
 ```yaml
 full_name: Muhammad Al Hafiz Rahmadhani
-located_in: Medan, Indonesia
-from: Medan, North Sumatera (Indonesia)
-education: Fresh Graduate in Informatics Engineering
-job: Fresh Graduate
-technical_interests: ["Product", "Mobile", "Web", "Planning", "AI", "Object Detection"]
-currently_learning: ["Product", "Jetpack Compose"]
-hobbies: ["Cycling", "Playing Badminton", "Cinema", "Listening Music", "Traveling", "Hiking"]
-one_day_want_holiday_to: ["Japan", "Turkey", "United Kingdom", "Switzerland"]
+located_in: Batam, Indonesia
+from: Indonesia
+job: Junior Software Engineer
+technical_interests: ["SwiftUI", "Mobile", "Product", "iOS"]
+currently_learning: ["SwiftUI"]
+hobbies: ["Cycling", "Playing Badminton", "Traveling", "Hiking"]
+one_day_want_holiday_to: ["United Kingdom", "Japan", "Turkey", "Switzerland"]
 ```
 
 <p align="center">
