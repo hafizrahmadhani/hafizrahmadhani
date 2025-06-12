@@ -1,4 +1,3 @@
-![](https://visitor-badge.glitch.me/badge?page_id=hafizrahmadhani.hafizrahmadhani)
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 <div align="center">
@@ -12,10 +11,10 @@ or <a href="mailto:mhafiz.rahmadhani@gmail.com"><b>email</b></a> me.
 
 ```yaml
 full_name: Muhammad Al Hafiz Rahmadhani
-located_in: Batam, Indonesia
+located_in: Medan, Indonesia
 from: Indonesia
 job: Junior Software Engineer
-technical_interests: ["SwiftUI", "Mobile", "Product", "iOS"]
+technical_interests: ["Swift", "Mobile", "Product", "iOS"]
 currently_learning: ["SwiftUI"]
 hobbies: ["Cycling", "Playing Badminton", "Traveling", "Hiking"]
 one_day_want_holiday_to: ["United Kingdom", "Japan", "Turkey", "Switzerland"]
